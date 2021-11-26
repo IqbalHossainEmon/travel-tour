@@ -1,0 +1,5 @@
+@media screen and (max-width: 1000px) {
+  .first-one {
+    border-left: 1px solid rgb(255, 193, 7);
+  }
+}

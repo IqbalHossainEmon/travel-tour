@@ -1,0 +1,13 @@
+.card {
+  background-position: center;
+  background-size: 160%;
+  transition: background-size 0.4s;
+}
+.card:hover {
+  background-size: 170%;
+}
+@media screen and (max-width: 325px) {
+  .card {
+    background-size: 160% 100%;
+  }
+}
